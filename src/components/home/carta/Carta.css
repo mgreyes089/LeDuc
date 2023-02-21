@@ -1,0 +1,18 @@
+#containerRestaurant{
+    display: flex;
+    margin: 5px;
+}
+.itemsRestaurant{
+    
+    color:inherit;
+}
+.positionImage{
+    margin: 4px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 235px;
+    height: 235px; 
+}

@@ -1,0 +1,106 @@
+.pescado1{
+  position: absolute;
+  height: 100px;
+  left: 130px;
+  top: 2px;
+ 
+}
+.pescado2{
+  position: absolute;
+  left: 500px;
+  top: 22em;
+  height: 165px;
+  
+}
+.pescado3{
+  position: absolute;
+  right: 1cm;
+  top: 45em;
+  height: 200px;
+  
+}
+.pescado4{
+  position: absolute;
+  top: 70px;
+  height: 260px;
+  left: 10px;
+  
+}
+.pescado5{
+  position: absolute;
+  top: 45em;
+  bottom: 90px;
+  height: 190px;
+  left: 130px ;
+  
+}
+.pescado6{
+  position: absolute;
+  top: 17em;
+  right: 1px;
+  height: 140px;
+  
+  
+}
+.pescado7{
+  position: absolute;
+  top: 42em;
+  height: 220px;
+  
+}
+.pescado8{
+  position: absolute;
+  top: 55em;
+  right: 90px;
+  height: 280px;
+  
+}
+.pescado9{
+  position: absolute;
+  bottom: 20px;
+  height: 100px;
+  left: 130px;
+  top: 60em;
+  
+}
+.pescado10{
+  position: absolute;
+  left: 185px;
+  top: 68em;
+  height: 295px;
+  
+}
+.pescado11{
+  position: absolute;
+  left: 400px;
+  top: 46em;
+  height: 80px;
+  
+}
+.pescado12{
+  position: absolute;
+  left: 500px;
+  top: 30em;
+  height: 85px;
+ 
+}
+.bodyFish{
+  
+  background-color: rgb(244, 223, 223);
+  height: 162em;
+  width: 100vw;
+  overflow: hidden;
+  position:absolute;
+  
+
+}
+
+.carta{
+  position: relative;
+  z-index: 5;
+  height: 162em;
+}
+.contenedor{
+  position: relative;
+  overflow: hidden;
+}

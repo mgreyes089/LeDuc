@@ -1,0 +1,12 @@
+{
+  "c_carta_title": "RESTAURANTE",
+    "title": "Bienvenido",
+    "description": {
+      "part1": "Para empezar, edit <1>src/App.js</1> and save to reload.",
+      "part2": "cambiar de lenguaje english and german using buttons above."
+    },
+    "c_carta_subtitle1": "Nuestra historia",
+    "c_carta_subtitle2": "Nuestros Productos",
+    "c_carta_subtitle3": "Nuestro Equipo"
+  }
+ 

@@ -1,0 +1,11 @@
+{
+    "c_carta_title": "THE RESTAURANT",
+    "parraf1": "se supone que esto es un texto en ingles",
+    "description": {
+      "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+      "part2": "Switch language between english and german using buttons above."
+    },
+    "c_carta_subtitle1": "Our History",
+    "c_carta_subtitle2": "Our Products",
+    "c_carta_subtitle3": "Our Team"
+  }
