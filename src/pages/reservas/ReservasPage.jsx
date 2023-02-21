@@ -99,6 +99,14 @@ const ReservasPage = () => {
                                 <option value="3">3</option>
                             </select>
                         </div>
+                        <div>
+                            <label htmlFor="personas">Personas</label>
+                            <select {...register("personas")}>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                            </select>
+                        </div>
                         
         
                                 
